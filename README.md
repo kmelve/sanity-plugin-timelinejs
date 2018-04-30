@@ -1,4 +1,4 @@
-# Sanity TImeline.js schemas
+# Sanity Timeline.js schemas
 
 ```
 sanity install timelinejs
