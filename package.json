@@ -17,6 +17,10 @@
     "email": "knut.melvaer@gmail.com",
     "url": "https://knutmelvaer.no"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmelve/sanity-plugin-timelinejs.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
